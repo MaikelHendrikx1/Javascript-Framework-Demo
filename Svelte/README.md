@@ -1,6 +1,6 @@
 ## How to deploy:
 ```
-  cd my-svelte-project
+  cd Svelte
   npm run dev
 ```
 
